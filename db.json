@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Clean room",
+      "Description": "Mom said that Mauris ac volutpat lacus. Etiam tempor tellus varius, tempor eros vel, imperdiet felis. Suspendisse scelerisque, diam eu mollis tristique, nibh tellus sodales odio, sit amet pharetra ipsum quam non lacus. Duis cursus libero sit amet magna dictum, nec sollicitudin nisl interdum. "
+    },
+    {
+      "id": 2,
+      "title": "Pet a dog",
+      "Description": "Dog really missed you whole day long. Morbi ornare lacinia rutrum. Phasellus dictum, elit non rhoncus blandit, dui arcu scelerisque enim, varius interdum orci purus eget est."
+    },
+    {
+      "id": 3,
+      "title": "Have a lunch",
+      "Description": "It's really important to eat healthy food. Nullam sodales pretium porttitor. Fusce in diam non diam auctor convallis. Aliquam et tortor sed sem tristique malesuada at pharetra orci. "
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
